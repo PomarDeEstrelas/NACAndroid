@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NACAndroid</string>
+
+    <string name="opcoes" translatable="true">Escolha um Time\n\n</string>
+    <string name="heider" translatable="false">Time Heider</string>
+    <string name="winna" translatable="false">Time Winna</string>
+    <string name="tony" translatable="false">Time Tony</string>
+    <string name="thais" translatable="false">Time Thaís</string>
+    <string name="agesandro" translatable="false">Time Agesandro</string>
+
+</resources>
